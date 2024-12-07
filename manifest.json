@@ -1,11 +1,11 @@
 {
-    "name": "br_match_levels_tool",
-    "short_name": "br_match_levels_tool",
+    "name": "br_tasks_auto_format_tool",
+    "short_name": "br_tasks_auto_format_tool",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Online tool for tasks editing.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
